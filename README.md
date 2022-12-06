@@ -1,2 +1,2 @@
 # Library-Project
-Java Spring and React
+Full Stack : Java Spring Boot and React
